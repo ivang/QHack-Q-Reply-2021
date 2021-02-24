@@ -1,0 +1,3 @@
+CINAR, I. and KOKLU, M., (2019). “Classification of Rice Varieties Using Artificial Intelligence Methods.” International Journal of Intelligent Systems and Applications in Engineering, 7(3), 188-194.
+
+DOI: https://doi.org/10.18201/ijisae.2019355381

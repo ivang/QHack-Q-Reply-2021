@@ -13,3 +13,9 @@ https://archive.ics.uci.edu/ml/datasets/Rice+%28Cammeo+and+Osmancik%29
 The scaling of features count. For example, with a BasicEntanglerLayers the classifier shows two cycles in the range (-6,6), but scaling the features to double the value reduces the number of cycles to 1. This can lead to better accuracy.
 
 Make GIF or pictures to show this?
+
+# Effects on the performance
+
+* Operations in the circuit (e.g. only X rotations don't introduce much entanglement)
+* Postprocessing and loss function (e.g. linear transformation + squareloss; sigmoid + logloss)
+* Feature scaling (this affect the periodicity of the decision boundaries)
