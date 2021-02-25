@@ -12,7 +12,7 @@ Goal of the project - develop variational classifier to answer the following:
 
 ### Presentation: 
 
-github.com:ivang/QHack-Q-Reply-2021.git/submission.ipybn
+github.com:ivang/QHack-Q-Reply-2021.git/submission.ipynb
 
 ### Source code: 
 
