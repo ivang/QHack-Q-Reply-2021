@@ -1,3 +1,5 @@
+# Using NISQ devices right now: lights and shadows of variational approach for data classification
+
 ### Team Name: 
 
 Q-Reply
@@ -10,11 +12,11 @@ Goal of the project - develop variational classifier to answer the following:
 
 ### Presentation: 
 
-*A hyperlink to an explanatory presentation of your team’s hackathon project in a non-technical form (e.g., video, blog post, jupyter notebook, website, slideshow, etc.).*
+github.com:ivang/QHack-Q-Reply-2021.git/submission.ipybn
 
 ### Source code: 
 
-*A hyperlink to the final source code for your team's hackathon project (e.g., a GitHub repo).*
+github.com:ivang/QHack-Q-Reply-2021.git
 
 ### Details
 
