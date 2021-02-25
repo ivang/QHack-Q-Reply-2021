@@ -12,11 +12,11 @@ Goal of the project - develop variational classifier to answer the following:
 
 ### Presentation: 
 
-github.com:ivang/QHack-Q-Reply-2021.git/submission.ipybn
+https://github.com/ivang/QHack-Q-Reply-2021/submission.ipybn
 
 ### Source code: 
 
-github.com:ivang/QHack-Q-Reply-2021.git
+https://github.com/ivang/QHack-Q-Reply-2021
 
 ### Details
 
