@@ -1,0 +1,1 @@
+{"n_wires": 2, "structure": "AngleEmbedding(features[0], wires=range(n_wires))\n    BasicEntanglerLayers(params, wires=range(n_wires))\n    ExpVal(PauliZ(0))", "params": [[-0.8699571827192621, -0.09734964511689224], [0.026349407207643886, -0.084372696902719], [-0.8639310239288995, 0.06065808295848913], [-0.022436204230317253, 0.04985687689201939]]}
