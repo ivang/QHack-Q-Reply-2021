@@ -1,4 +1,4 @@
-# A quantum variational approach to data classification:<br>current Quantum Computers maturity and the potential for Quantum Advantage 
+# A quantum variational approach to data classification and the potential for Quantum Advantage 
 
 ### Team Name: 
 
