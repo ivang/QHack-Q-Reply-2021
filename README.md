@@ -10,7 +10,7 @@ In the latest years more and more attention has been drawn to the application of
 
 In this framework, Quantum Computing sets itself as a major potential game-changer, opening up a number of possibilities to obtain improved performances when compared to existing classical techniques. This new field, called Quantum Machine Learning, is still in its infancy: Quantum Computers are currently undergoing major engineering improvements and it is not yet clear how and when Machine Learning could benefit from Quantum Computing. 
 
-In this work we extensively explore the well-known (in the Quantum Computing Community!) variational approach for data classification. We analyse the dataset of interest and investigate the impact of different strategies, namely the ansatz and the depth of the Quantum Circuit, with a two-fold goal: 
+In this work we extensively explore the well-known (in the Quantum Computing Community!) variational approach for data classification. We analyse the dataset of interest and investigate the impact of different strategies, namely the ansatz and the depth of the Quantum Circuit, with the following goal: 
 
 * Test empirically if the Quantum Computing strategy is able to perform better than classical techniques – Quantum Advantage 
 
