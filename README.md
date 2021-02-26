@@ -19,7 +19,7 @@ To do so, we derive most of the results on a simulator, select a strategy and fi
 
 ### Presentation: 
 
-https://github.com/ivang/QHack-Q-Reply-2021/submission.ipynb
+https://github.com/ivang/QHack-Q-Reply-2021/blob/master/submission.ipynb
 
 ### Source code: 
 
