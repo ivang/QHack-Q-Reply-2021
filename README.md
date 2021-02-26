@@ -13,13 +13,10 @@ In this framework, Quantum Computing sets itself as a major potential game-chang
 In this work we extensively explore the well-known (in the Quantum Computing Community!) variational approach for data classification. We analyse the dataset of interest and investigate the impact of different strategies, namely the ansatz and the depth of the Quantum Circuit, with a two-fold goal: 
 
 * Test empirically if the Quantum Computing strategy is able to perform better than classical techniques – Quantum Advantage 
-* Investigate whether the fidelity of gates operations and coherence times are sufficiently high for current Quantum Computers to be employed in real or near-real applications 
-
-To do so, we derive most of the results on a simulator, select a strategy and finally run it on Rigetti’s Quantum Processing Unit (QPU). 
 
 ### Presentation: 
 
-https://github.com/ivang/QHack-Q-Reply-2021/submission.ipynb
+https://github.com/ivang/QHack-Q-Reply-2021/blob/master/submission.ipynb
 
 ### Source code: 
 
